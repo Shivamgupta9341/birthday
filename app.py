@@ -716,7 +716,7 @@ html, body, * { cursor: none !important; }
         all the laughter. Today, tomorrow, always. 🌹<br><br>
         <strong style="color:var(--pink);">Happy Birthday, Ankita . This day was made for YOU. ✨</strong>
       </p>
-      <button class="pclose" onclick="closePopup()">Close with Love 💕</button>
+      <button class="close" onclick="closePopup()">Close with Love 💕</button>
     </div>
   </div>
 

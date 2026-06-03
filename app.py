@@ -785,41 +785,7 @@ html, body, * { cursor: none !important; }
       <button class="sbtn" onclick="openSurprise()">🎁 &nbsp;Click for Surprise</button>
     </section>
 
-    <!-- ── PHOTO GALLERY ── -->
-    <section class="sec reveal">
-      <span class="slabel">📸 Memories</span>
-      <h2 class="stitle">Beautiful Moments</h2>
-      <div class="sdiv"></div>
-      <div class="ggrid">
-        <div class="gcard feat">
-          <img src="image/first.jpeg" alt="Our Story" loading="lazy">
-          <div class="gcap">💕 Our Story Begins Here</div>
-        </div>
-        <div class="gcard">
-          <img src="https://picsum.photos/seed/bday-a/400/500" alt="Memory" loading="lazy">
-          <div class="gcap">🌸 Beautiful Soul</div>
-        </div>
-        <div class="gcard">
-          <img src="https://picsum.photos/seed/bday-b/400/500" alt="Memory" loading="lazy">
-          <div class="gcap">✨ Magic Moments</div>
-        </div>
-        <div class="gcard">
-          <img src="https://picsum.photos/seed/bday-c/400/500" alt="Memory" loading="lazy">
-          <div class="gcap">🎉 Celebrating You</div>
-        </div>
-        <div class="gcard">
-          <img src="https://picsum.photos/seed/bday-d/400/500" alt="Memory" loading="lazy">
-          <div class="gcap">🌙 Sweet Memories</div>
-        </div>
-        <div class="gcard">
-          <img src="https://picsum.photos/seed/bday-e/400/500" alt="Memory" loading="lazy">
-          <div class="gcap">💫 Forever Cherished</div>
-        </div>
-      </div>
-      <p style="text-align:center;margin-top:28px;color:rgba(255,255,255,.3);font-size:.78rem;font-style:italic">
-        💡 Replace images by adding your own photos to assets/images/
-      </p>
-    </section>
+   
 
     <!-- ── LOVE QUOTES ── -->
     <section class="sec qsec reveal">

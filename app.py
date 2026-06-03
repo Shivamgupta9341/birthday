@@ -450,7 +450,7 @@ html, body, * { cursor: none !important; }
   background:linear-gradient(135deg,var(--pink),var(--purple));
   border:none; border-radius:50px; color:#fff;
   font-family:'Poppins',sans-serif; font-weight:600; font-size:.93rem;
-  cursor:pointer; box-shadow:var(--gp); transition:transform .2s;
+  cursor:pointer !important; box-shadow:var(--gp); transition:transform .2s;
 }
 .pclose:hover { transform:scale(1.06); }
 
@@ -716,7 +716,7 @@ html, body, * { cursor: none !important; }
         all the laughter. Today, tomorrow, always. 🌹<br><br>
         <strong style="color:var(--pink);">Happy Birthday, Ankita . This day was made for YOU. ✨</strong>
       </p>
-      <button class="close" onclick="closePopup()">Close with Love 💕</button>
+      <button class="pclose" onclick="closePopup()">Close with Love 💕</button>
     </div>
   </div>
 
